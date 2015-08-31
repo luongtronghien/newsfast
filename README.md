@@ -1,0 +1,2 @@
+# newsfast
+News Fast
